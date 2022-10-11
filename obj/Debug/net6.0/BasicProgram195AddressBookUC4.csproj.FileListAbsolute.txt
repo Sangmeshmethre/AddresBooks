@@ -1,0 +1,15 @@
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\bin\Debug\net6.0\BasicProgram195AddressBookUC4.exe
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\bin\Debug\net6.0\BasicProgram195AddressBookUC4.deps.json
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\bin\Debug\net6.0\BasicProgram195AddressBookUC4.runtimeconfig.json
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\bin\Debug\net6.0\BasicProgram195AddressBookUC4.dll
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\bin\Debug\net6.0\BasicProgram195AddressBookUC4.pdb
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.csproj.AssemblyReference.cache
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.GeneratedMSBuildEditorConfig.editorconfig
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.AssemblyInfoInputs.cache
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.AssemblyInfo.cs
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.csproj.CoreCompileInputs.cache
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.dll
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\refint\BasicProgram195AddressBookUC4.dll
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.pdb
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\BasicProgram195AddressBookUC4.genruntimeconfig.cache
+F:\AddressBookProgram\ADUC4\BasicProgram195AddressBookUC4\obj\Debug\net6.0\ref\BasicProgram195AddressBookUC4.dll
