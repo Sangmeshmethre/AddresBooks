@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\bin\Debug\net6.0\AddressBookSys.exe
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\bin\Debug\net6.0\AddressBookSys.deps.json
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\bin\Debug\net6.0\AddressBookSys.runtimeconfig.json
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\bin\Debug\net6.0\AddressBookSys.dll
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\bin\Debug\net6.0\AddressBookSys.pdb
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.AssemblyInfo.cs
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.dll
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\refint\AddressBookSys.dll
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.pdb
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\AddressBookSys.genruntimeconfig.cache
+C:\LFP-195 Batch\Reflection\AddressBookSys\AddressBookSys\obj\Debug\net6.0\ref\AddressBookSys.dll
